@@ -1,0 +1,9 @@
+.tracks {
+    border: 1px solid darkred;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.track {
+    color: #646cff
+}
